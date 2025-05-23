@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="145a8155-12f7-47bf-bcfb-cbd91189db4c" name="更改" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/blog/2019-05-28-first-blog-post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/2019-05-29-long-blog-post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/2021-08-01-mdx-blog-post.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/2021-08-26-welcome/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/authors.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/tags.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tutorial-basics/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tutorial-basics/congratulations.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tutorial-basics/create-a-blog-post.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tutorial-basics/create-a-document.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tutorial-basics/create-a-page.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tutorial-basics/deploy-your-site.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tutorial-basics/markdown-features.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tutorial-extras/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tutorial-extras/img/docsVersionDropdown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tutorial-extras/img/localeDropdown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tutorial-extras/manage-docs-versions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/tutorial-extras/translate-your-site.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sidebars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomepageFeatures/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomepageFeatures/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/markdown-page.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/.nojekyll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docusaurus-social-card.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/docusaurus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/undraw_docusaurus_mountain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/undraw_docusaurus_react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/undraw_docusaurus_tree.svg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "C0rr3c7"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/C0rr3c7/C0rr3c7.github.io.git",
+    "accountId": "c132c920-4d5e-4a93-b46b-557a3c3e4417"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2xVLQPLiETXHNC0QEjgM4r0ABw7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="145a8155-12f7-47bf-bcfb-cbd91189db4c" name="更改" comment="" />
+      <created>1748018280159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748018280159</updated>
+      <workItem from="1748018283032" duration="931000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1748018396304</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748018396304</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
