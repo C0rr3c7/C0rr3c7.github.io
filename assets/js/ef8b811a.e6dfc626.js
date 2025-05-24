@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkremote_website=self.webpackChunkremote_website||[]).push([[8947],{6600:t=>{t.exports=JSON.parse('{"authors":[{"name":"C0rr3ct","title":"Right?","url":"https://github.com/","imageURL":"https://avatars.githubusercontent.com/u/213068687","key":"C0rr3ct","page":null,"count":3}]}')}}]);
