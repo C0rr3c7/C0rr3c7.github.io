@@ -95,61 +95,57 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'HackMyVmSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'HackMyVm',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/',
-            label: 'GitHub',
-            position: 'right',
+            type: 'docSidebar',
+            sidebarId: 'VulnHubSidebar',
+            position: 'left',
+            label: 'VulnHub',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'HackTheBoxSidebar',
+            position: 'left',
+            label: 'HackTheBox',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'VulnStackSidebar',
+            position: 'left',
+            label: 'VulnStack',
+          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'XuanJiSidebar',
+          //   position: 'left',
+          //   label: '玄机',
+          // },
+          {
+            type: 'docSidebar',
+            sidebarId: 'YingJiSidebar',
+            position: 'left',
+            label: '应急响应',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'CTFSidebar',
+            position: 'left',
+            label: 'CTF',
+          },
+          { to: '/about', label: '关于', position: 'right' },
+          { to: '/blog', label: 'Blog', position: 'right' },
+          // {
+          //   href: 'https://github.com/',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/',
-              },
-            ],
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} My Blog, Inc. Built with Docusaurus.`,
       },
       prism: {
