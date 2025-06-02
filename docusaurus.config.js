@@ -117,12 +117,12 @@ const config = {
             position: 'left',
             label: 'VulnStack',
           },
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'XuanJiSidebar',
-          //   position: 'left',
-          //   label: '玄机',
-          // },
+          {
+            type: 'docSidebar',
+            sidebarId: 'PortSwiggerSidebar',
+            position: 'left',
+            label: 'PortSwigger',
+          },
           {
             type: 'docSidebar',
             sidebarId: 'YingJiSidebar',
