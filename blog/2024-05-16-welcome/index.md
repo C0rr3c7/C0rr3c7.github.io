@@ -9,6 +9,8 @@ Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
 
 :::
 
+<!-- truncate -->
+
 :::tip
 
 Some **content** with _Markdown_ `syntax`. Check [this `api`](#).

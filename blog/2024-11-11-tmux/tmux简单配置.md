@@ -8,6 +8,8 @@ authors: C0rr3ct
 
 在家目录创键`.tmux.conf`
 
+<!-- truncate -->
+
 ```
 set-option -g default-shell /bin/zsh
 
