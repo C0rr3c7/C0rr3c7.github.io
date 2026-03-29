@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="204cd6b0-2bf4-408c-857d-eb1bd0512653" name="更改" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sidebars.js" beforeDir="false" afterPath="$PROJECT_DIR$/sidebars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/PortSwigger/web-security/XSS.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PortSwigger/web-security/XSS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/PortSwigger/web-security/路径遍历.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/PortSwigger/web-security/路径遍历.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/VulnStack/Vulntarget/test.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +73,9 @@
       <workItem from="1748183424679" duration="288000" />
       <workItem from="1748183743988" duration="41000" />
       <workItem from="1748183816521" duration="2243000" />
+      <workItem from="1748869889460" duration="1717000" />
+      <workItem from="1757246147785" duration="2542000" />
+      <workItem from="1759663122645" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -105,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748097728110</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1748870033392</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748870033392</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
