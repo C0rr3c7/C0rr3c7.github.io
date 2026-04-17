@@ -1,0 +1,8 @@
+{
+  "label": "APP 测试",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "APP渗透测试"
+  }
+}

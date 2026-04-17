@@ -115,13 +115,19 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'VulnStackSidebar',
             position: 'left',
-            label: 'VulnStack',
+            label: 'VulnColl',
           },
           {
             type: 'docSidebar',
             sidebarId: 'PortSwiggerSidebar',
             position: 'left',
             label: 'PortSwigger',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'PenetrationTestingSidebar',
+            position: 'left',
+            label: '渗透测试',
           },
           {
             type: 'docSidebar',

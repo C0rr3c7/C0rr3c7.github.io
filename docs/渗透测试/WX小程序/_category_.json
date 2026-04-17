@@ -1,0 +1,8 @@
+{
+  "label": "WX小程序",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "主要是WX小程序相关的渗透方法"
+  }
+}

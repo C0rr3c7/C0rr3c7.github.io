@@ -1,0 +1,8 @@
+{
+  "label": "内网渗透",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "内网渗透、域渗透"
+  }
+}
