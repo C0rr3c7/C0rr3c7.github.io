@@ -3,6 +3,8 @@
 
 # Production
 /build
+/docs/.obsidian
+/.idea
 
 # Generated files
 .docusaurus
